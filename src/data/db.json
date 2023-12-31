@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": " What is React js ?",
+      "author": "Nway Nway Wai",
+      "body": "React. js is a front-end library that has gradually become the go-to framework for modern web development within the JavaScript community .2023 No 13"
+    },
+    {
+      "id": "2",
+      "title": " What is Laravel?",
+      "author": "CreativeCoder",
+      "body": "React. js is a front-end library that has gradually become the go-to framework for modern web development within the JavaScript community .2023 No 13"
+    },
+    {
+      "id": "3",
+      "title": " What is Vue js ?",
+      "author": "Nway Nway Wai",
+      "body": "React. js is a front-end library that has gradually become the go-to framework for modern web development within the JavaScript community .2023 No 13"
+    }
+  ]
+}
